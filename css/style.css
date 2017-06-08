@@ -61,7 +61,7 @@ a:hover {
 }
 
 h2 {
-  font-family: 'MuseoSans500', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size:20px;
   color:white;
   background-color: #e00000;
@@ -73,7 +73,7 @@ h2 {
 
 
 h1{
-  font-family: 'MuseoSans500', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   color: #696969;
   font-size:36px;
   text-align: center;
@@ -81,7 +81,7 @@ h1{
 }
 
 h4{
-  font-family: 'MuseoSans500', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   margin-top: 0px;
   color: #696969;
   font-size:24px;
