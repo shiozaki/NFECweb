@@ -1,0 +1,136 @@
+html {
+  overflow-y: scroll;
+}
+
+body{
+  background-color:#eaeaf0;
+  font:14px Arial, Helvetica, sans-serif;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+#page{
+  background-color:white;
+  color:#4b4b57;
+  text-align:left;
+  width:990px;
+  margin:0 auto;
+  padding-top:10px;
+  padding-bottom:40px;
+}
+
+#container{
+  clear:both;
+  overflow:hidden;
+}
+
+#navigation {
+  width: 900px;
+  float: right;
+  height:30px;
+}
+
+#footer{
+  clear:both;
+  margin-top:20px;
+  padding-left:40px;
+  border-top:1px solid #818196;
+  padding-top:20px;
+}
+
+p {
+  line-height:1.5em;
+  padding-bottom:7px;
+}
+
+#content .content{font-size:14px; margin-left:40px; margin-right: 40px;}
+
+img {
+  border: 0px
+}
+
+a {
+  color:#818196;
+  text-decoration:none;
+}
+
+a:hover {
+ text-decoration:underline;
+  color:#6f6f81;
+}
+
+h2 {
+  font-family: 'MuseoSans500', Helvetica, Arial, sans-serif;
+  font-size:20px;
+  color:white;
+  background-color: #e00000;
+  border: none; /*1px solid #A4A4A4;*/
+  line-height:40px;
+  padding:0 9px;
+  margin-top:0px;
+}
+
+
+h1{
+  font-family: 'MuseoSans500', Helvetica, Arial, sans-serif;
+  color: #696969;
+  font-size:36px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h4{
+  font-family: 'MuseoSans500', Helvetica, Arial, sans-serif;
+  margin-top: 0px;
+  color: #696969;
+  font-size:24px;
+  text-align: center;
+}
+
+#navigation li{
+  display:block;
+  float:left;
+  padding:0
+}
+
+#navigation a {
+  display:block;
+  float:left;
+  height:40px;
+  line-height:40px;
+  padding:0 10px;
+  font-size:15px;
+  color:#A4A4A4;
+  text-decoration:none!important;
+}
+
+#navigation a:hover {
+  color:#2E2E2E;
+}
+
+.node{
+  margin-bottom:10px;
+  clear:both;
+  overflow:hidden;
+}
+
+.speaker {
+   display: inline-block;
+   padding:0px;
+   width:180px;
+}
+
+.speaker p {
+   font-size: 14px;
+   line-height:17px;
+}
+
+.parts {
+   float: left;
+   padding:0px;
+   text-align: left;
+   margin-left: 40px;
+   width: 45%;
+}
+
